@@ -1,0 +1,14 @@
+- content_for(:title) do
+  | about me
+header.masthead.home-about
+  .container
+    .row
+      .col-lg-8.col-md-10.mx-auto
+        .site-heading
+          h1 John
+          span.subheading Computer Science 
+.container
+  .row
+    .col-lg-8.col-md-10.mx-auto
+      .content-markdown
+        = @resume.content.html_safe

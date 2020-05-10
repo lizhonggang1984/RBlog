@@ -1,0 +1,21 @@
+- content_for(:title) do
+  | 时间线
+header.masthead.home-timeline
+  .container
+    .row
+      .col-lg-8.col-md-10.mx-auto
+        .site-heading
+          h1 Timeline
+          span.subheading 
+section.cd-container#cd-timeline
+  .cd-timeline-block
+    .cd-timeline-img.cd-picture
+    .cd-timeline-content
+      h2 Rblog
+      p Rblog for John's personal blog
+      = link_to 'Read more', 'https://github.com/lizhonggang1984/RBlog', target: '_blank', class: 'cd-read-more'
+      span.cd-date Now
+  .cd-timeline-block
+    .cd-timeline-img.cd-location
+    .cd-timeline-content
+
