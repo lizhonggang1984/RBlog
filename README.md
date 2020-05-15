@@ -1,6 +1,6 @@
 
 
-# Rina Blog
+#My Blog
 
 > RBlog 项目是一个使用 [rails template of 80percent](https://github.com/80percent/rails-template) 模板创建的 Rails 项目, 引用了最新的技术框架，后端框架为: Rails 5.1.4, 前端框架用的 bootstrap 4, startbootstrap, 主要功能有: 后台管理, 数据统计, 文章管理，相册管理，个人简历管理, 时间线等功能
 
@@ -92,7 +92,7 @@ timeline前端样式: <https://github.com/RyanFitzgerald/vertical-timeline>
 
 ## 贡献者
 
-* Rina
+* John Li
 
 ## Built with
 
